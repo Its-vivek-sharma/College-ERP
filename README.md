@@ -397,7 +397,7 @@ All APIs return JSON responses with `success` and `data/error` fields.
 ## 📄 License
 
 **⚠️ PROPRIETARY SOFTWARE ⚠️**  
-No commercial use, distribution, or modification permitted without written consent. See [LICENSE](LICENSE](https://img.shields.io/badge/License-Proprietary-red) for details.
+No commercial use, distribution, or modification permitted without written consent. See [LICENSE](LICENSE.md) for details.
 
 ## 🙏 Acknowledgments
 
