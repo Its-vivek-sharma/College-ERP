@@ -418,7 +418,6 @@ No commercial use, distribution, or modification permitted without written conse
 **Last Updated:** Jan 15, 2026
 
 ### Recent Updates
-- ✅ Removed "Leave" status (now only Present/Absent)
 - ✅ Added login activity tracking
 - ✅ Improved mobile responsiveness
 - ✅ Fixed sidebar scrolling
@@ -430,3 +429,4 @@ No commercial use, distribution, or modification permitted without written conse
 **Made with ❤️ by Vivek Kumar**
 
 **Star ⭐ this repository if you find it helpful!**
+source code will be uploaded soon...
