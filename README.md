@@ -183,7 +183,7 @@ Professional admit card with exam schedule and center details
 1. **Manage Teachers** → Add New Teacher
 2. Fill in details (name, email, designation)
 3. System creates login credentials automatically
-4. Assign subjects: **Assign Subjects** → Select teacher, subject, batch
+4. Assign subjects: **Assign Subjects** → Select teacher, subject, batch.
 
 #### Adding Students
 1. **Manage Students** → Add New Student
